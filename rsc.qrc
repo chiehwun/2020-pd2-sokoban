@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="ground">img/Ground/ground_04.png</file>
+        <file alias="wall">img/Blocks/block_06.png</file>
+        <file alias="box">img/Crates/crate_02.png</file>
+        <file alias="box2">img/Crates/crate_12.png</file>
+        <file alias="dotbox">img/Environment/environment_02.png</file>
+        <file alias="Rbox">img/Crates/crate_03.png</file>
+        <file alias="Rbox4">img/Crates/crate_08.png</file>
+        <file alias="dotRbox">img/Environment/environment_05.png</file>
+        <file alias="Hbox">img/Crates/crate_26.png</file>
+        <file alias="hole2">img/Environment/environment_15.png</file>
+        <file alias="hole1">img/Crates/crate_41.png</file>
+        <file alias="hole0">img/Crates/crate_11.png</file>
+        <file alias="player0">img/Player/player_03.png</file>
+        <file alias="ground1">img/Ground/ground_03.png</file>
+        <file alias="player1">img/ret_74.png</file>
+        <file alias="Rbox3">img/Crates/crate_38.png</file>
+        <file alias="box3">img/Crates/crate_37.png</file>
+        <file alias="Rbox2">img/Crates/crate_43.png</file>
+        <file alias="box4">img/Crates/crate_07.png</file>
+        <file alias="icon">img/playerFace_dark.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file alias="map0">mapFiles/map0.txt</file>
+        <file alias="map1">mapFiles/map1.txt</file>
+        <file alias="map2">mapFiles/map2.txt</file>
+        <file alias="map3">mapFiles/map3.txt</file>
+        <file alias="map4">mapFiles/map4.txt</file>
+        <file alias="map5">mapFiles/map5.txt</file>
+        <file alias="map6">mapFiles/map6.txt</file>
+        <file alias="map7">mapFiles/map7.txt</file>
+        <file alias="map8">mapFiles/map8.txt</file>
+        <file alias="map9">mapFiles/map9.txt</file>
+        <file alias="map10">mapFiles/map10.txt</file>
+    </qresource>
+</RCC>

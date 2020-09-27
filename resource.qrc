@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="littleGreen">img/PNG/Retina/Player/player_05.png</file>
+        <file alias="wall">img/PNG/Retina/Blocks/block_06.png</file>
+        <file alias="box">img/PNG/Retina/Crates/crate_02.png</file>
+        <file alias="ground">img/PNG/Retina/Ground/ground_04.png</file>
+        <file alias="box2">img/PNG/Retina/Crates/crate_12.png</file>
+        <file alias="dotRbox">img/PNG/Retina/Environment/environment_05.png</file>
+        <file alias="Rbox">img/PNG/Retina/Crates/crate_03.png</file>
+        <file alias="Rbox2">img/PNG/Retina/Crates/crate_08.png</file>
+        <file alias="hole3">img/PNG/Retina/Environment/environment_15.png</file>
+        <file alias="hole2">img/PNG/Retina/Environment/environment_13.png</file>
+        <file alias="hole0">img/PNG/Retina/Crates/crate_11.png</file>
+        <file alias="hole1">img/PNG/Retina/Crates/crate_41.png</file>
+        <file alias="dotbox">img/PNG/Retina/Environment/environment_02.png</file>
+        <file alias="Hbox">img/PNG/Retina/Crates/crate_31.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file alias="map0">mapFiles/map0.txt</file>
+        <file alias="map1">mapFiles/map1.txt</file>
+        <file alias="map2">mapFiles/map2.txt</file>
+        <file alias="map3">mapFiles/map3.txt</file>
+        <file alias="map4">mapFiles/map4.txt</file>
+        <file alias="map5">mapFiles/map5.txt</file>
+        <file alias="map6">mapFiles/map6.txt</file>
+        <file alias="map7">mapFiles/map7.txt</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>data/db.sqlite</file>
+    </qresource>
+</RCC>
